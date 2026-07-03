@@ -21,7 +21,7 @@ An AI-powered Hospital Appointment Management System with Face Recognition, OTP 
 <p align="center">
 
 <a href="https://your-live-demo-link.com">
-<img src="https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge"/>
+<img src="https://caresync-hospital-management-system-2.onrender.com/"/>
 </a>
 
 <a href="https://github.com/yourusername/CareSync">
