@@ -273,14 +273,6 @@ https://caresync-hospital-management-system-2.onrender.com/
 
 ---
 
-#  Developer
-
-**Upendra Singh**
-
-Computer Science & Engineering Student
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
