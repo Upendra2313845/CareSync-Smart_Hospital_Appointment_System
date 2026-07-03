@@ -1,7 +1,6 @@
 <div align="center">
 
-# CareSync
-### Smart Hospital Appointment Management System
+# CareSync-Smart_Hospital_Appointment_System
 
 <p align="center">
 An AI-powered Hospital Appointment Management System with Face Recognition, OTP Verification, Secure Authentication, and Smart Appointment Scheduling.
@@ -236,7 +235,7 @@ python app.py
 Visit
 
 ```
-http://localhost:5000
+https://caresync-hospital-management-system-2.onrender.com/
 ```
 
 ---
@@ -281,7 +280,7 @@ http://localhost:5000
 
 # 🌐 Live Demo
 
-🔗 https://your-live-demo-link.com
+🔗 https://caresync-hospital-management-system-2.onrender.com/
 
 ---
 
