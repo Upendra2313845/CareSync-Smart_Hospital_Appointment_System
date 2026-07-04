@@ -21,17 +21,7 @@ An AI-powered Hospital Appointment Management System with Face Recognition, OTP 
 
 </div>
 
----
 
-## Project Preview
-
-<p align="center">
-
-<img src="images/demo.gif" width="900"/>
-
-</p>
-
-> Replace **demo.gif** with your screen recording.
 
 ---
 
@@ -114,44 +104,6 @@ Patients can register, verify their identity, book appointments, and manage thei
 | DELETE | /appointments/<id> | Cancel Appointment |
 
 > Total APIs: **8+ REST APIs**
-
----
-
-#  Screenshots
-
-## Home
-
-<img src="images/home.png"/>
-
----
-
-## Login
-
-<img src="images/login.png"/>
-
----
-
-## Dashboard
-
-<img src="images/dashboard.png"/>
-
----
-
-## Appointment Booking
-
-<img src="images/appointment.png"/>
-
----
-
-## Face Recognition
-
-<img src="images/face.png"/>
-
----
-
-## Admin Panel
-
-<img src="images/admin.png"/>
 
 ---
 
